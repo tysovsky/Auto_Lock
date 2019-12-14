@@ -1,0 +1,4 @@
+.DS_Store
+.gitattributes
+server/key.jsob
+server/node_modules/
